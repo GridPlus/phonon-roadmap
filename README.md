@@ -1,2 +1,6 @@
 # phonon-roadmap
-For the storage and display of Phonon development project artifacts
+For the collection and display of the GridPlus Phonon dev team's high level project documentation. 
+
+Contains high level roadmap plans and specification documents for phonon development. 
+
+<img src="Phonon High Level Roadmap (3).jpg">
