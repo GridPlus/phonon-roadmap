@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "generate": "generate-md --layout ./phonon-roadmap-template --input ./README.md  --output ./site"
+  },
+  "dependencies": {
+    "markdown-styles": "^3.2.0"
+  }
+}
