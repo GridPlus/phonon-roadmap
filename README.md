@@ -1,6 +1,8 @@
-# phonon-roadmap
-For the collection and display of the GridPlus Phonon dev team's high level project documentation. 
+# Phonon Roadmap Generator
+Edit in markdown: ```index.md```
 
-Contains high level roadmap plans and specification documents for phonon development. 
+Install:
+```sudo npm install -g markdown-styles```
 
-<img src="Phonon High Level Roadmap (5).jpg">
+ Run this to generate from markdown to the HTML site:
+```npm run generate```
