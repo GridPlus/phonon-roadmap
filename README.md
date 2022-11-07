@@ -1,7 +1,8 @@
 # Phonon Roadmap Generator
+Edit in markdown: ```index.md```
 
-To regenerate this markdown to the HTML site:
+Install:
 ```sudo npm install -g markdown-styles```
 
-Then run:
+ Run this to generate from markdown to the HTML site:
 ```npm run generate```
