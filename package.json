@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "generate": "generate-md --layout ./phonon-roadmap-template --input ./index.md  --output ./site"
+    "generate": "generate-md --layout ./phonon-roadmap-template --input ./index.md  --output ./docs"
   },
   "dependencies": {
     "markdown-styles": "^3.2.0"
